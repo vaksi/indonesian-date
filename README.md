@@ -6,7 +6,7 @@ khusus untuk indonesia. Jika ada yang kurang silahkan tambahkan untuk membantu k
     package main
 
     import (
-        indotime "gitlab.warungpintar.co/libwp/time/indonesiandate"
+        indotime "github.com/vaksi/indonesiandate"
     )
     
     func main() {
